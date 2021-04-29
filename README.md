@@ -54,5 +54,5 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mbstring](http://php.net/manual/en/mbstring.installation.php)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
-screenshot 
-  ![image]https://i.imgur.com/zQ1s3BG.png
+## screenshot 
+  [![11.png](https://i.postimg.cc/hvN0Mb27/11.png)](https://postimg.cc/vxL9Z9FQ)
